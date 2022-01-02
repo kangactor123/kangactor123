@@ -2,6 +2,7 @@
 <h3 align="center">안녕하세요. 내일이 더 기대되는 신입개발자 '강동희'입니다.</h3>
 <br>
 <ul>
+  <li><h4>Résumé  : <a href="https://kangactor123.notion.site/d186f98558964b4db6e0b08d33292508"> 이력서 </a></h4></li>
   <li><h4>BLOG : <a href="https://blog.naver.com/kangactor123"> 블로그 </a></h4></li>
   <li><h4>EMIAL : kangactor1994@gmail.com </h4></li>
   <li><h4>CONTACT : +82 10-4830-9675 </h4></li>
