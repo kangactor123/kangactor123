@@ -7,7 +7,7 @@
   <li><h4>EMIAL : kangactor1994@gmail.com </h4></li>
   <li><h4>CONTACT : +82 10-4830-9675 </h4></li>
   <li><h4>KAKAOTALK : kangactor123 </h4></li>
-  <li><h4>파이널 프로젝트 : <a href="#">바로가기</a></h4></li>
+  <li><h4>파이널 프로젝트 : <a href="https://github.com/kangactor123/FInal_Project">바로가기</a></h4></li>
   <li><h4>세미 프로젝트 : <a href="https://github.com/kangactor123/SemiProject">바로가기</a></h4></li>
   <li><h4>자바 Notion : <a href="https://kangactor123.notion.site/Java-458c13e7715549a7b7cb36313c7393c4">바로가기</a></h4></li>
   <li><h4>DB Notion : <a href="https://kangactor123.notion.site/SQL-edacf836e7a14f7bbbb61ce74af6abed">바로가기</a></h4></li>
