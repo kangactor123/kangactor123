@@ -26,9 +26,3 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="60" height="20"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" width="60" height="20">
 </div>
-<br><br>
-<h2 align="center">목표</h2>
-<br>
-<ul>
-  <li><h4>하루 1 commit 목표! (21/11/28 ~ )</h4></li>
-</ul>
