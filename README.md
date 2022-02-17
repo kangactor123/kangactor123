@@ -1,5 +1,7 @@
-<h2 align="center">Hello, I'm Thomar</h2>
-<h3 align="center">안녕하세요. 내일이 더 기대되는 신입개발자 '강동희'입니다.</h3>
+<h1 align="center">Hello, I'm Thomar</h1><br/>
+<h3 align="left">안녕하세요. 내일이 더 기대되는 신입개발자 '강동희' 입니다. </h3>
+<h3 align="left">어떤 문제나 개선 사항을 마주했을 시 항상 ‘왜?’ 라는 질문을 달고 최선의 방법과 최고의 모습을 찾기 위해 노력합니다. </h3>
+
 <br>
 <ul>
   <li><h4>BLOG : <a href="https://blog.naver.com/kangactor123"> 블로그 </a></h4></li>
@@ -12,4 +14,3 @@
 </ul>
 <br>
 <br>
-
