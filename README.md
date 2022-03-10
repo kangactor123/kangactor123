@@ -18,15 +18,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 <br/>
-<ul>
-  <li><h4>BLOG : <a href="https://blog.naver.com/kangactor123"> 블로그 </a></h4></li>
-  <li><h4>NEW BLOG : <a href="https://velog.io/@kangactor123"> 블로그 </a></h4></li>
-  <li><h4>미니 프로젝트 : <a href="https://github.com/kangactor123/FoodBTI">바로가기</a></h4></li>
-  <li><h4>프로젝트 'EatDa' : <a href="https://github.com/kangactor123/FInal_Project">바로가기</a></h4></li>
-  <li><h4>프로젝트 '여행을 묻다': <a href="https://github.com/kangactor123/SemiProject">바로가기</a></h4></li>
-</ul>
-<br>
-<br>
 
 
 
