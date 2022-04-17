@@ -14,11 +14,3 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 <br/><br/>
-
-<ul>
-  <li><h5>TIL : <a href="https://kangactor123.notion.site/Front-End-TIL-Today-I-Learned-f258ea52842f47fe97333707e9ffad8f">Notion</a></h5></li>
-</ul>
-
-
-
-
