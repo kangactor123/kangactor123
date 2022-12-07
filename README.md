@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hello World!🤚 프론트엔드 개발자 Thomar 입니다. </h2><br/>
+  <h2>Hello World!🤚 I'm FE Dev Thomar. </h2><br/>
   <h3>🛠 Tech</h3><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
