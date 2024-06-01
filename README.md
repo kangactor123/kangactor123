@@ -1,5 +1,6 @@
 <div>
-  <h4>Hello 2024!🤚</h4> 
+  <h3>Fullstack Software Engineeer</h3>
+  <h4>Hi there! I'm Thomas🤚</h4> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
