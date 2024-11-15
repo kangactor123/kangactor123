@@ -18,9 +18,9 @@
   <div>
     <a href="https://github.com/devxb/gitanimals">
       <img
-        src="https://render.gitanimals.org/lines/kangactor123"
+        src="https://render.gitanimals.org/farms/kangactor123"
         width="600"
-        height="120"
+        height="300"
       />
     </a>
   </div>
