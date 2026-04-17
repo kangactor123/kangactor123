@@ -1,5 +1,5 @@
 <div>
-  <h3>Frontend Software Engineeer</h3>
+  <h3>Frontend Developer</h3>
   <h4>Hi there! I'm Eric🤚</h4> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
